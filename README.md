@@ -2,10 +2,9 @@
 
 
 
-- 🔭Atualmente estou trabalhando com assistencia técnica
-- 🌱 Estudando Java no curso de ADS
-- 📫 Contate-me
-- 😄 Pronouns: Ele/Dele
+- 🔭Atualmente estou trabalhando em uma Telecom como suporte e serviço
+- 🌱 Estudante de ADS
+- 😄  Ele/Dele
 
 
   
